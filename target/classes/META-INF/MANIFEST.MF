@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: assignment_7
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: haobo
+Implementation-Vendor-Id: edu.neu.csye6220
+Build-Jdk: 1.8.0_152
+Implementation-URL: http://projects.spring.io/spring-boot/assignment_7
+ /
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
