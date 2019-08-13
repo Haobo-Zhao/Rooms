@@ -11,7 +11,7 @@
 * Spring Boot
 * Spring JPA
 * MySQL
-* HTML, CSS, JavaScript
+* HTML, CSS and JavaScript
 * Bootstrap as front-end framework
 
 **Configure your MySQL in scr/main/resources/application.properties**
